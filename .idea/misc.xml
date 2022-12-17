@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_18" default="true" project-jdk-name="18" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+  <component name="com.itcodebox.notebooks.projectservice.ProjectUIState">
+    <option name="notebookPaneVisible" value="true" />
+    <option name="chapterPaneVisible" value="true" />
+    <option name="notePaneVisible" value="true" />
+    <option name="selectedNotebookId" value="2" />
+    <option name="selectedChapterId" value="13" />
+    <option name="selectedNoteId" value="14" />
+  </component>
+</project>

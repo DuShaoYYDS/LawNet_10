@@ -1,0 +1,30 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="LawNet_10:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/LawNet_10_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="LawNet_10/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="LawNet_10" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="druid-1.1.5" />
+          <element id="library" level="project" name="activation" />
+          <element id="library" level="project" name="jsp-api" />
+          <element id="library" level="project" name="servlet-api" />
+          <element id="library" level="project" name="Maven: org.commonmark:commonmark:0.20.0" />
+          <element id="library" level="project" name="Maven: com.atlassian.commonmark:commonmark-ext-heading-anchor:0.15.0" />
+          <element id="library" level="project" name="Maven: com.atlassian.commonmark:commonmark:0.15.0" />
+          <element id="library" level="project" name="Maven: org.commonmark:commonmark-ext-gfm-tables:0.20.0" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.13.4.2" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.13.4" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-core:2.13.4" />
+          <element id="library" level="project" name="Maven: com.mysql:mysql-connector-j:8.0.31" />
+          <element id="library" level="project" name="Maven: com.google.protobuf:protobuf-java:3.19.4" />
+          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:8.0.30" />
+          <element id="library" level="project" name="Maven: com.alibaba:druid:1.1.5" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

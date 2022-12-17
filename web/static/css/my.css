@@ -1,0 +1,281 @@
+.yida_1{
+    position: absolute;left: 70px;top: 50px;color: #2aabd2;font-family: 宋体; font-size: 20px
+}
+.yida_2{
+    position: absolute;left: 70px;top: 75px;color: #2aabd2;font-family: 宋体; font-size: 20px
+}
+.yida_3{
+    position: absolute;left: 70px;top: 100px;color: #2aabd2;font-family: 宋体; font-size: 20px
+}
+.yida_4{
+    position: absolute;left: 70px;top: 125px;color: #2aabd2;font-family: 宋体; font-size: 20px
+}
+.du_1{
+    color: #b92c28;
+    border-radius: 20px;
+    border: 1px solid #0066db;
+    background-color: #303030;
+    background-color: rgba(162, 86, 86, 0.8);
+    position: absolute;left: 32px;top: 180px;color: #ffffff;font-family: 宋体; font-size: 16px
+}
+.du_2{
+    border-radius: 20px;
+    border: 1px solid #F00;
+    background-color: rgba(162, 86, 86, 0.8);
+    position: absolute;left: 32px;top: 180px;color: #ffffff;font-family: 宋体; font-size: 20px
+}
+*{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+html{
+    height: 100%;
+}
+body{
+    height: 100%;
+    /*index背景图*/
+    /*background-image: url(../img/backgrounds/1.jpg);*/
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    font-family: "微软雅黑";
+}
+.login{
+
+    margin-left: 500px;
+    /*margin-top: 200px;
+    margin: 350px auto;*/
+    width: 558px;
+    height: 358px;
+    /*border: 1px solid #ccc;*/
+    background-color: rgba(255,255,255,0.5);
+    border: 1px ;
+    /*opacity: 0.1;*/
+    box-shadow: 0px 0px 95px 1px rgba(255,255,255,0.5);
+    border-radius: 25px;
+}
+.p1{
+    padding-top: 25px;
+    font-family: "微软雅黑";
+    font-size: 38px;
+    color: #FFFFFF;
+    text-align: center;
+    font-weight: bold;
+}
+.p2{
+    padding-top: 1px;
+    font-family: "微软雅黑";
+    color: #FFFFFF;
+    text-align: center;
+    padding-bottom: 20px;
+}
+.input1{
+    display: block;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    color: #0c0707;
+    width: 400px;
+    margin: 10px auto;
+    background-color: rgba(255,255,255,0);
+    border: none;
+    border-bottom: 2px solid #FFFFFF;
+    font-size: 25px;
+}
+.button1{
+    display: block;
+    width: 358px;
+    height: 35px;
+    margin: 25px auto;
+    border-radius: 20px;
+    background-color: rgba(255,255,255,0.3);
+    color: #FFFFFF;
+}
+.button1:hover{
+    background-color: rgba(33,119,184,0.4);
+    border: none;
+}
+.right_content{
+    width: 5%;
+    background-image: url("../img/js_test/right.jpg");
+}
+.error_content{
+    width: 5%;
+    background-image: url("../img/js_test/error.jpg");
+}
+.adv{
+    color: #c93273;
+}
+body{
+    background: url("../img/backgrounds/blog.jpg");
+}
+.m-padded-mini{
+    padding: 0.2em !important;
+}
+.m-padded-tiny{
+    padding: 0.3em !important;
+}
+.m-padded{
+    padding: 1em !important;
+}
+.m-padded-tb-mini{
+    padding-top: 0.2em !important;
+    padding-bottom: 0.2em !important;
+}
+.m-padded-tb-tiny{
+    padding-top: 0.3em !important;
+    padding-bottom: 0.3em !important;
+}
+.m-padded-tb-small{
+    padding-top: 0.5em !important;
+    padding-bottom: 0.5em !important;
+}
+.m-padded-tb{
+    padding-top: 1em !important;
+    padding-bottom: 1em !important;
+}
+.m-padded-tb-large{
+    padding-top: 2em !important;
+    padding-bottom: 2em !important;
+}
+.m-padded-tb-big{
+    padding-top: 3em !important;
+    padding-bottom: 3em !important;
+}
+.m-padded-tb-hug{
+    padding-top: 4em !important;
+    padding-bottom: 4em !important;
+}
+.m-padded-tb-massive{
+    padding-top: 5em !important;
+    padding-bottom: 5em !important;
+}
+.m-padded-lr-reponsive{
+    padding-left: 4em !important;
+    padding-right: 4em !important;
+}
+/*----------text-----------*/
+.m-text{
+    font-weight: 300 !important;
+    letter-spacing: 1px !important;
+    line-height: 1.8;
+}
+.m-text-thin{
+    font-weight: 300 !important;
+}
+
+.m-text-font-size-small{
+    font-size: 10px !important;
+}
+.m-text-font-size{
+    font-size: 20px !important;
+}
+
+
+.m-text-spaced{
+    letter-spacing: 1px !important;
+}
+.m-text-lined{
+    line-height: 1.8;
+}
+/*--------------margin------------------*/
+.m-margin-tb-tiny{
+    margin-top: 0.3em !important;
+    margin-bottom: 0.3em !important;
+}
+.m-margin-tb-big{
+    margin-top: 1em !important;
+    margin-bottom: 1em !important;
+}
+.m-margin-top-small{
+    margin-top: 0.5em !important;
+}
+.m-margin-top{
+    margin-top: 1em !important;
+}
+.m-margin-top-large{
+    margin-top: 2em !important;
+}
+.m-margin-bottom-small{
+    margin-bottom: 0.5em !important;
+}
+
+
+
+/*--------position*/
+.m-fixed{
+    position: fixed !important;
+    z-index: 10 !important;
+}
+.m-right-bottom{
+    bottom: 0 !important;
+    right: 0 !important;
+}
+
+
+/*---------------opacity---------------------*/
+.m-opacity-mini{
+    opacity: 0.8 !important;
+}
+
+.m-opacity-tiny{
+    opacity: 0.6 !important;
+}
+/*-------------position-----------------*/
+.m-right-top{
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+/*---------display---------------*/
+.m-inline-block{
+    display: inline-block !important;
+}
+
+/*-------------container-------------------*/
+.m-container{
+    max-width: 72em !important;
+    margin: auto !important;
+}
+
+.m-container-small{
+    max-width: 60em !important;
+    margin: auto !important;
+}
+
+/*--------------shasow-------------------*/
+.m-shadow-small{
+    -webkit-box-shadow: 0 4px 8px rgba(0,0,0,0.2) !important;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2) !important;
+}
+/*------------color--------------------------*/
+.m-black{
+    color: #333 !important;
+}
+.m_teal{
+    color: #00B5AD !important;
+}
+.m-mobile-show{
+    display: none !important;
+}
+@media screen and(max-width: 768px){
+    .m-mobile-hide{
+        display: none !important;
+    }
+    .m-mobile-show{
+        display: block !important;
+    }
+    .m-padded-lr-reponsive{
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+    }
+    .m-mobile-wide{
+        width: 100% !important;
+    }
+    .m-mobile-lr-clear{
+        padding-left: 0em !important;
+        padding-right: 0em !important;
+    }
+}
